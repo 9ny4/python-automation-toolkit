@@ -9,6 +9,8 @@ Clean, well-documented, and ready to drop into any workflow.
 |--------|-------------|-------------|
 | [`organize.py`](scripts/organize.py) | Sort files into folders by type | `python organize.py --source ~/Downloads --dry-run` |
 | [`csv_toolkit.py`](scripts/csv_toolkit.py) | Merge, dedupe, filter & inspect CSVs | `python csv_toolkit.py stats -i data.csv` |
+| [`excel_to_json.py`](scripts/excel_to_json.py) | Convert Excel sheets to JSON files | `python scripts/excel_to_json.py --input data.xlsx --output out --pretty` |
+| [`task_scheduler.py`](scripts/task_scheduler.py) | Run scheduled tasks from JSON config | `python scripts/task_scheduler.py run --config scheduler_config.json` |
 
 ---
 
@@ -211,6 +213,8 @@ The `samples/` directory contains:
 - [rich](https://rich.readthedocs.io/) — terminal output / tables
 - [loguru](https://loguru.readthedocs.io/) — structured logging
 - [pandas](https://pandas.pydata.org/) — CSV processing
+- [openpyxl](https://openpyxl.readthedocs.io/) — Excel reading
+- [schedule](https://schedule.readthedocs.io/) — task scheduling
 
 ---
 

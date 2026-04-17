@@ -1,0 +1,27 @@
+{
+  "tasks": [
+    {
+      "name": "daily_backup",
+      "command": "python scripts/organize.py --source ~/Downloads --dry-run",
+      "schedule": "daily",
+      "time": "02:00"
+    },
+    {
+      "name": "hourly_check",
+      "command": "echo check",
+      "schedule": "hourly"
+    },
+    {
+      "name": "weekly_cleanup",
+      "command": "python scripts/csv_toolkit.py stats -i samples/sample.csv",
+      "schedule": "weekly",
+      "day": "sunday",
+      "time": "03:30"
+    },
+    {
+      "name": "every_15_minutes",
+      "command": "echo heartbeat",
+      "schedule": "every_15_minutes"
+    }
+  ]
+}
