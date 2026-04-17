@@ -1,0 +1,21 @@
+id,name,email,phone,company,status,plan,monthly_revenue,country,signup_date,last_login,notes
+1,Alice Johnson,alice.johnson@acmecorp.com,+1-555-0101,Acme Corp,active,pro,299.00,USA,2023-01-15,2024-03-10,Top customer
+2,Bob Smith,bob.smith@globex.io,+44-20-7946-0958,Globex Ltd,active,starter,49.00,UK,2023-02-20,2024-03-12,
+3,Carol White,carol.w@brighttech.com,+1-555-0203,BrightTech,inactive,pro,0.00,USA,2022-11-01,2023-08-05,Churned
+4,David Lee,d.lee@nova-systems.com,+61-2-9999-1234,Nova Systems,active,enterprise,999.00,Australia,2023-03-05,2024-03-13,
+5,Eva Martinez,eva.m@sunsetmedia.co,+34-91-123-4567,Sunset Media,active,pro,299.00,Spain,2023-04-10,2024-03-11,
+6,Frank Brown,frank.b@ironworks.net,+1-555-0306,IronWorks Inc,cancelled,starter,0.00,USA,2023-01-22,2023-12-01,Requested refund
+7,Grace Kim,g.kim@pixelstudio.kr,+82-2-555-6789,Pixel Studio,active,starter,49.00,South Korea,2023-05-18,2024-03-09,
+8,Henry Zhou,h.zhou@dragonlogistics.cn,+86-10-8888-9999,Dragon Logistics,active,enterprise,999.00,China,2022-12-10,2024-03-13,Renewed
+9,Isla Patel,isla.p@verdant.in,+91-98765-43210,Verdant Solutions,inactive,pro,0.00,India,2023-06-01,2023-10-20,
+10,Jack Turner,j.turner@northstar.ca,+1-604-555-7890,NorthStar Co,active,pro,299.00,Canada,2023-07-14,2024-03-12,
+11,Karen Davis,k.davis@acmecorp.com,+1-555-0111,Acme Corp,active,enterprise,999.00,USA,2022-09-30,2024-03-13,Key account
+12,Liam O'Brien,liam.o@celticdev.ie,+353-1-555-2222,Celtic Dev,active,starter,49.00,Ireland,2023-08-22,2024-03-08,
+13,Mia Schmidt,mia.s@berlinsoftware.de,+49-30-5555-1234,Berlin Software,cancelled,pro,0.00,Germany,2023-02-14,2023-11-30,
+14,Noah Wilson,n.wilson@rivercity.com,+1-555-0414,RiverCity Apps,active,pro,299.00,USA,2023-09-01,2024-03-10,
+15,Olivia Chen,olivia.c@pearltech.tw,+886-2-2345-6789,Pearl Tech,active,starter,49.00,Taiwan,2023-10-05,2024-03-07,
+16,Paul Nguyen,p.nguyen@mekongdev.vn,+84-28-3838-0000,Mekong Dev,inactive,starter,0.00,Vietnam,2023-03-19,2023-09-15,
+17,Quinn Adams,q.adams@alpinedata.ch,+41-44-555-9999,Alpine Data,active,enterprise,999.00,Switzerland,2022-08-11,2024-03-13,Long-term client
+18,Rachel Foster,r.foster@sunnycoast.au,+61-7-5555-3333,SunnyCoast Digital,active,pro,299.00,Australia,2023-11-20,2024-03-11,
+19,Samuel Torres,s.torres@caribbeansw.com,+1-787-555-0099,Caribbean Software,active,starter,49.00,Puerto Rico,2023-12-01,2024-03-06,
+20,Tina Brooks,t.brooks@midwesttech.com,+1-312-555-7777,MidwestTech,cancelled,enterprise,0.00,USA,2022-10-15,2024-01-22,Downgraded before cancel
